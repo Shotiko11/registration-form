@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.error-text {
+    display: block;
+    color:blueviolet;
+    font-size: 20px;
+}
+
+.registration-form {
+    display: block;
+    border:5px solid saddlebrown;
+    width: 500px;
+    height: 375px;
+    margin-left: 35%;
+    margin-top: 12%;
+    background-color:burlywood ;
+    text-align: center;
+}
+
+.own-styl {
+    padding: 5px;
+    font-size: 50px;
+}
+
+
+input {
+    font-size: 30px;
+    border: none;
+    border:2px solid saddlebrown;
+}
+
+button {
+    font-size: 20px;
+    border: 2px solid saddlebrown;
+    background-color: burlywood;
+    padding: 5px;
+}
+
+.activeus {
+    height: 450px;
+}
+
+
